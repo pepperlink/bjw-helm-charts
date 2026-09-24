@@ -1,4 +1,4 @@
-> **Pepperlink fork (dormant):** not referenced by any deploy, and nothing is built or consumed from this copy. Kept as a snapshot of the pre-move bjw-s charts; archive-or-ignore decision pending.
+> **Pepperlink fork (dormant):** not referenced by any deploy; no artifacts are published from this copy. Kept as a snapshot of the pre-move bjw-s charts; archive-or-ignore decision pending.
 
 <div align="center">
 
