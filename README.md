@@ -1,3 +1,5 @@
+> **Pepperlink fork (dormant):** not referenced by any deploy, and nothing is built or consumed from this copy. Kept as a snapshot of the pre-move bjw-s charts; archive-or-ignore decision pending.
+
 <div align="center">
 
 <img src="https://github.com/bjw-s/bjw-s/blob/main/_assets/images/logo.jpg?raw=true" align="left" width="144px" height="144px"/>
